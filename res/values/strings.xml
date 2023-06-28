@@ -26,10 +26,6 @@
     <string name="deny">Deny</string>
     <!-- Used in confirmation dialogs as the action that the user will tap to turn on the feature. [CHAR LIMIT=40]-->
     <string name="confirmation_turn_on">Turn on</string>
-    
-    <!-- Black theme for dark mode -->
-    <string name="berry_black_theme_title">Pure black</string>
-    <string name="berry_black_theme_summary">Pure black background for dark theme</string>
 
     <!-- Device Info screen. Used for a status item's value when the proper value is not known -->
     <string name="device_info_default">Unknown</string>
